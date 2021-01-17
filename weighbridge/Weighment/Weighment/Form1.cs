@@ -32,7 +32,7 @@ namespace Weighment
         public void InitTimer()
         {
             timer1.Tick += new EventHandler(btnconnect_Click);
-            timer1.Interval = 150; // in miliseconds
+            timer1.Interval = 100; // in miliseconds
             timer1.Start();
         }
 
