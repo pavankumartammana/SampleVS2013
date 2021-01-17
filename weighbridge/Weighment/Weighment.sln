@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weighment", "Weighment\Weighment.csproj", "{A786FDF8-1B7A-4AB3-88C6-0BB583262748}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WeighmentSetup", "WeighmentSetup\WeighmentSetup.vdproj", "{B74C0C3A-71D5-453B-B52F-29F54B2409D9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PostgresWeightSetup", "PostgresWeightSetup\PostgresWeightSetup.vdproj", "{DB0B173C-166E-46BB-8198-96DF5A04BCCF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WeighbridgeSetup", "WeighbridgeSetup\WeighbridgeSetup.vdproj", "{7FEF08E5-5421-4D9C-8B06-AEE5449CFDB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A786FDF8-1B7A-4AB3-88C6-0BB583262748}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{A786FDF8-1B7A-4AB3-88C6-0BB583262748}.Debug|x86.ActiveCfg = Debug|x86
+		{A786FDF8-1B7A-4AB3-88C6-0BB583262748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A786FDF8-1B7A-4AB3-88C6-0BB583262748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A786FDF8-1B7A-4AB3-88C6-0BB583262748}.Release|x86.ActiveCfg = Release|x86
+		{A786FDF8-1B7A-4AB3-88C6-0BB583262748}.Release|x86.Build.0 = Release|x86
+		{B74C0C3A-71D5-453B-B52F-29F54B2409D9}.Debug|Any CPU.ActiveCfg = Debug
+		{B74C0C3A-71D5-453B-B52F-29F54B2409D9}.Debug|x86.ActiveCfg = Debug
+		{B74C0C3A-71D5-453B-B52F-29F54B2409D9}.Debug|x86.Build.0 = Debug
+		{B74C0C3A-71D5-453B-B52F-29F54B2409D9}.Release|Any CPU.ActiveCfg = Release
+		{B74C0C3A-71D5-453B-B52F-29F54B2409D9}.Release|x86.ActiveCfg = Release
+		{DB0B173C-166E-46BB-8198-96DF5A04BCCF}.Debug|Any CPU.ActiveCfg = Debug
+		{DB0B173C-166E-46BB-8198-96DF5A04BCCF}.Debug|Any CPU.Build.0 = Debug
+		{DB0B173C-166E-46BB-8198-96DF5A04BCCF}.Debug|x86.ActiveCfg = Debug
+		{DB0B173C-166E-46BB-8198-96DF5A04BCCF}.Debug|x86.Build.0 = Debug
+		{DB0B173C-166E-46BB-8198-96DF5A04BCCF}.Release|Any CPU.ActiveCfg = Release
+		{DB0B173C-166E-46BB-8198-96DF5A04BCCF}.Release|x86.ActiveCfg = Release
+		{7FEF08E5-5421-4D9C-8B06-AEE5449CFDB2}.Debug|Any CPU.ActiveCfg = Debug
+		{7FEF08E5-5421-4D9C-8B06-AEE5449CFDB2}.Debug|Any CPU.Build.0 = Debug
+		{7FEF08E5-5421-4D9C-8B06-AEE5449CFDB2}.Debug|x86.ActiveCfg = Debug
+		{7FEF08E5-5421-4D9C-8B06-AEE5449CFDB2}.Release|Any CPU.ActiveCfg = Release
+		{7FEF08E5-5421-4D9C-8B06-AEE5449CFDB2}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
